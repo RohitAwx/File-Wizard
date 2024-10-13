@@ -10,7 +10,7 @@ An open-source file conversion web app built with ReactJs, Python, and AWS for
  - Support for HTTP API, S3 File Storage, and Lambda functions
  - Edge runtime-ready
 
-*AWS Infrastructure
+* AWS Infrastructure
  - Amazon S3 Allows for object storage and static site hosting
  - API Gateway hosts the HTTP API
  - AWS Lambda for processing JSON and filtering required data
