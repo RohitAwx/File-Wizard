@@ -5,7 +5,7 @@ An open-source file conversion web app built with ReactJs, Python, and AWS for
                  
 # Features   
 * Website
- *  ReactJs App Router
+ - ReactJs App Router
  - Amazon Web Services for backend functionality
  - Support for HTTP API, S3 File Storage, and Lambda functions
  - Edge runtime-ready
