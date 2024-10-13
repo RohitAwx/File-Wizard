@@ -1,5 +1,5 @@
 # File-Wizard
-An open-source file conversion web app built with NextJs, Python, and AWS for 
+An open-source file conversion web app built with ReactJs, Python, and AWS for 
         the HTTP API, Lambda functions, and S3 object storage.
                  Converts .docx files to .pdf
                  
