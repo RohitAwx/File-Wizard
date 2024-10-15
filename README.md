@@ -18,3 +18,5 @@ An open-source file conversion web app built with ReactJs, Python, and AWS for
 
 # Overview 
 ![architecture- FW](https://github.com/user-attachments/assets/0d0bde69-6798-4654-8dad-e0728ef4f5c7)
+
+A static site is hosted on `S3` with a document upload form. We use API Gateway to create an API which makes a GET request to a Lambda function after the user clicks (`Upload File`) on the form.
